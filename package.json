@@ -1,7 +1,7 @@
 {
   "name": "is-view",
   "description": "Returns true if a value is an object and appears to be a valid Templates view object.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/jonschlinkert/is-view",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "jonschlinkert/is-view",
